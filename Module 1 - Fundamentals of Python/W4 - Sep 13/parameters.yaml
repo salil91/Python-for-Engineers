@@ -1,0 +1,17 @@
+geometric_parameters:
+  diameter: 0.01
+  length: 0.03
+material: Aluminum
+material_properties:
+  density: 2700
+name: Compression test specimen parameters
+oscilloscope_channels:
+  '2': Input
+  '3': Intermediate
+  '4': Output
+sample_numbers:
+- 101
+- 105
+- 117
+- 125
+- 142

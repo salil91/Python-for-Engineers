@@ -1,0 +1,9 @@
+name = "Material Properties"
+material = "A36 steel"
+
+[elastic_properties]
+E = 200e9 # Pa
+nu = 0.26
+
+[other_properties]
+rho = 7850 # kg/m3

@@ -1,0 +1,25 @@
+{
+  "model": {
+    "name": "Compression test specimen parameters",
+    "material": "Aluminum",
+    "sample_numbers": [
+      101,
+      105,
+      117,
+      125,
+      142
+    ],
+    "material_properties": {
+      "density": 2700
+    },
+    "geometric_parameters": {
+      "diameter": 0.01,
+      "length": 0.03
+    },
+    "oscilloscope_channels": {
+      "2": "Input",
+      "3": "Intermediate",
+      "4": "Output"
+    }
+  }
+}
